@@ -9,5 +9,4 @@ import { Ticket } from '../ticket.model';
   styleUrl: './ticket.component.css',
 })
 export class TicketComponent {
-  tickets: Ticket[] = [];
 }
